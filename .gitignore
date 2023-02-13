@@ -30,4 +30,5 @@ override.tf.json
 *.pub
 *.ppk
 *key*
-*lock*
+*.lock*
+*.plan*
